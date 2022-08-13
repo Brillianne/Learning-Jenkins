@@ -21,7 +21,7 @@ Click on the Build on the history, and it takes you to another page. On that pag
 
 ![Screenshot from 2022-08-13 15-52-24](https://user-images.githubusercontent.com/33745365/184494945-8ffd329b-6d6c-456a-afac-b164e7fa42b9.png)
 
-![Screenshot from 2022-08-13 15-51-34](https://user-images.githubusercontent.com/33745365/184494953-0507df14-e3e8-43bd-9362-93c4d19e784b.png)
+
 
 
 
