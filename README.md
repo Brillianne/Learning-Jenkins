@@ -19,7 +19,9 @@ On the left-hand side panel, click the Build Now button to build the source code
 
 Click on the Build on the history, and it takes you to another page. On that page click console output to see you results.
 
-![Screenshot from 2022-06-21 21-55-44](https://user-images.githubusercontent.com/33745365/174879589-ee94b478-5ce6-4a30-89f8-c556fe16b13b.png)
+![Screenshot from 2022-08-13 15-52-24](https://user-images.githubusercontent.com/33745365/184494945-8ffd329b-6d6c-456a-afac-b164e7fa42b9.png)
 
-![Screenshot from 2022-06-21 21-55-30](https://user-images.githubusercontent.com/33745365/174879672-d197e7bf-8b89-45af-900e-2d5e1318862a.png)
+![Screenshot from 2022-08-13 15-51-34](https://user-images.githubusercontent.com/33745365/184494953-0507df14-e3e8-43bd-9362-93c4d19e784b.png)
+
+
 
